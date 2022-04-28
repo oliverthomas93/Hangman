@@ -1,0 +1,17 @@
+.word-container {
+    display: flex;
+}
+
+.letter {
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    width: 40px;
+    margin: 5px;
+    border-bottom: 3px solid black;
+}
+
+.letters-used p {
+    display: inline-block;
+    padding: 0 10px;
+}
